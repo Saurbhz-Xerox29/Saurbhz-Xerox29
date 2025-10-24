@@ -5,7 +5,6 @@
 | Category | Details |
 | :--- | :--- |
 | **🚀 Currently Focusing On** | Deepening expertise in **Full Stack Development** |
-| **🤝 Looking to Collaborate On** | **EVRP** (or replace with a more descriptive term) and ambitious open-source projects. |
 | **💡 Seeking Guidance** | Challenging **technical roadblocks** and large-scale architectural design. |
 | **💬 Let's Connect About** | Full-Stack architecture, **MERN** technologies, and technical mentorship/support. |
 | **📧 Contact** | [imsaurabhkumar29@gmail.com](mailto:imsaurabhkumar29@gmail.com) |
