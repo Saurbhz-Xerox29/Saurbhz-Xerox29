@@ -1,7 +1,8 @@
 <h1 align="center">Saurabh | Full Stack Engineer</h1>
 <p align="center">
-  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f985.gif" alt="Eagle" width="120"/>
+  <img src="https://media.tenor.com/BcvPwl3m7m0AAAAC/badass-sword-art-online.gif" alt="Sword Art Online" width="250"/>
 </p>
+
 
 <p align="center">
   Driving innovation with the <b>MERN Stack</b>. I'm a passionate engineer focused on building robust and scalable full-stack applications.
