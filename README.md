@@ -1,7 +1,8 @@
 <h1 align="center">Saurabh | Full Stack Engineer</h1>
 <p align="center">
-  <img src="https://media.tenor.com/BcvPwl3m7m0AAAAC/badass-sword-art-online.gif" alt="Sword Art Online" width="250"/>
+  <img src="https://media.tenor.com/BcvPwl3m7m0AAAAC/badass-sword-art-online.gif" alt="Sword Art Online" width="280"/>
 </p>
+
 
 
 <p align="center">
