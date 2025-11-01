@@ -1,4 +1,4 @@
-<h3 align="center">Saurabh | Full Stack Engineer</h3>
+<h1 align="center">Saurabh | Full Stack Engineer</h1>
 <p align="center">
   <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f985.gif" alt="Eagle" width="120"/>
 </p>
