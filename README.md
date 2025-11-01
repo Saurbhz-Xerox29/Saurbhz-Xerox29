@@ -1,4 +1,4 @@
-<h1 align="center">Saurabh | Full Stack Engineer</h1>
+<h1 align="center">✨Saurabh | Full Stack Engineer</h1>
 <p align="center">
   <img src="https://media1.tenor.com/m/DEVVw1FAvsYAAAAC/badass-sword.gif" alt="Sword Art Online" width="280"/>
 </p>
