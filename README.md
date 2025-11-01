@@ -1,4 +1,4 @@
-## 🦊Saurabh | Full Stack Engineer
+## 🐺Saurabh | Full Stack Engineer
 
 **Driving innovation with the MERN Stack.** I'm a passionate engineer focused on building robust and scalable full-stack applications.
 ---
