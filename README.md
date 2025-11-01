@@ -1,6 +1,13 @@
-## ![Eagle](https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f985.gif) Saurabh | Full Stack Engineer
+<p align="center">
+  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f985.gif" alt="Eagle" width="120"/>
+</p>
 
-**Driving innovation with the MERN Stack.** I'm a passionate engineer focused on building robust and scalable full-stack applications.
+<h3 align="center">Saurabh | Full Stack Engineer</h3>
+
+<p align="center">
+  Driving innovation with the <b>MERN Stack</b>. I'm a passionate engineer focused on building robust and scalable full-stack applications.
+</p>
+
 ---
 | Category | Details |
 | :--- | :--- |
