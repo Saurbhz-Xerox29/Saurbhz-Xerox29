@@ -22,15 +22,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Highlights
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Saurbhz-Xerox29&theme=darkhub&no-frame=true&no-bg=true&column=6"
-    alt="GitHub Trophies"
-  />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-MERN-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Problem%20Solving-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
 </p>
 
+---
 
 ## 🌐 Socials
 
@@ -70,20 +71,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurbhz-Xerox29&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurbhz-Xerox29&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saurbhz-Xerox29&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=Saurbhz-Xerox29&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurbhz-Xerox29&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurbhz-Xerox29&layout=compact&theme=dark" />
 </p>
 
 ---
 
-## 🔝 Pinned Repositories (Featured)
+## 🔝 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Saurbhz-Xerox29/QuizPariksha">
@@ -107,7 +108,6 @@
 
 ## 📂 All Repositories
 
-- 🔹 [Saurbhz-Xerox29](https://github.com/Saurbhz-Xerox29/Saurbhz-Xerox29)
 - 🔹 [GFG_DSA](https://github.com/Saurbhz-Xerox29/GFG_DSA)
 - 🔹 [Leet_hub29](https://github.com/Saurbhz-Xerox29/Leet_hub29)
 - 🔹 [QuizPariksha](https://github.com/Saurbhz-Xerox29/QuizPariksha)
