@@ -88,23 +88,19 @@
 
 <p align="center">
   <a href="https://github.com/Saurbhz-Xerox29/QuizPariksha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurbhz-Xerox29&repo=QuizPariksha&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurbhz-Xerox29&repo=QuizPariksha&theme=dark" />
   </a>
   <a href="https://github.com/Saurbhz-Xerox29/Netflix-Gemini">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurbhz-Xerox29&repo=Netflix-Gemini&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurbhz-Xerox29&repo=Netflix-Gemini&theme=dark" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Saurbhz-Xerox29/EVRP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurbhz-Xerox29&repo=EVRP&theme=dark"/>
-  </a>
-  <a href="https://github.com/Saurbhz-Xerox29/GFG_DSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurbhz-Xerox29&repo=GFG_DSA&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saurbhz-Xerox29&repo=EVRP&theme=dark" />
   </a>
 </p>
 
----
 
 ## 📂 All Repositories
 
