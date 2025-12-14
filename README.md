@@ -15,15 +15,15 @@
 | Category | Details |
 | :--- | :--- |
 | 🚀 **Currently Focusing On** | Deepening expertise in **Full Stack Development** |
-| 💡 **Seeking Guidance** | Challenging **technical roadblocks** and large-scale architectural design |
-| 💬 **Let's Connect About** | Full-Stack architecture, **MERN** technologies, and mentorship |
+| 💡 **Seeking Guidance** | Solving challenging **technical roadblocks** & system design |
+| 💬 **Let’s Connect About** | MERN stack, full-stack architecture, mentorship |
 | 📧 **Contact** | [imsaurabhkumar29@gmail.com](mailto:imsaurabhkumar29@gmail.com) |
-| ⚡ **Fun Fact** | I don't just use technology — I actively evolve with it |
+| ⚡ **Fun Fact** | I don’t just use technology — I evolve with it |
 
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Saurabh29-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Saurbhz-Xerox29&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -61,29 +61,28 @@
 
 ## 📊 GitHub Stats
 
-![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabh29-hub&show_icons=true&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurbhz-Xerox29&show_icons=true&theme=dark&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Saurabh29-hub&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Saurbhz-Xerox29&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh29-hub&layout=compact&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurbhz-Xerox29&layout=compact&theme=dark&hide_border=false)
 
 ---
 
 ## ✍️ Random Dev Quote
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 ## 🔝 Pinned Repositories
 
-[![ProjectA](https://img.shields.io/badge/ProjectA-Repository-blue?style=for-the-badge)](https://github.com/Saurabh29-hub/ProjectA)
-[![ProjectB](https://img.shields.io/badge/ProjectB-Repository-blue?style=for-the-badge)](https://github.com/Saurabh29-hub/ProjectB)
-[![ProjectC](https://img.shields.io/badge/ProjectC-Repository-blue?style=for-the-badge)](https://github.com/Saurabh29-hub/ProjectC)
+[![Project A](https://img.shields.io/badge/ProjectA-Repository-blue?style=for-the-badge)](https://github.com/Saurbhz-Xerox29/ProjectA)
+[![Project B](https://img.shields.io/badge/ProjectB-Repository-blue?style=for-the-badge)](https://github.com/Saurbhz-Xerox29/ProjectB)
+[![Project C](https://img.shields.io/badge/ProjectC-Repository-blue?style=for-the-badge)](https://github.com/Saurbhz-Xerox29/ProjectC)
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Saurabh29-hub&icon=0&color=0)
+![Profile Views](https://visitcount.itsvg.in/api?id=Saurbhz-Xerox29&icon=0&color=0)
 
 ---
 
@@ -93,4 +92,4 @@
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**
+⭐ Thanks for visiting my GitHub profile!
